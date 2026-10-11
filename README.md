@@ -60,3 +60,6 @@ El sistema soporta múltiples usuarios. Los registros iniciales tienen el rol de
 
 ---
 © 2026 Brigada de Marina - Sistema Integral de Gestión
+## Contexto
+
+Sistema de gestión (personal, equipos y vehículos) hecho durante la práctica profesional en la Brigada de Marina, en **PHP + MySQL**. El repositorio no incluye datos reales de personas.
